@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\pawci\Desktop\grafika openGL\zad2\Zad2\main.cpp(124,15): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+C:\Users\pawci\Desktop\grafika openGL\zad2\Zad2\main.cpp(125,14): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+C:\Users\pawci\Desktop\grafika openGL\zad2\Zad2\main.cpp(286,3): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Generating Code...
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Przyklad 03c.vcxproj -> C:\Users\pawci\Desktop\grafika openGL\zad2\Zad2\Debug\Przyklad 03c.exe
